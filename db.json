@@ -1,0 +1,16 @@
+{
+  "cats": [
+    {
+      "id": "abc123",
+      "name": "Mèo Mun",
+      "description": "Mèo mun rất dễ thương",
+      "image": "https://app.gak.vn/storage/uploads/Xv4c0WZA7WqGOkskavde57TdcQXruwtTjSzNi025.jpg"
+    },
+    {
+      "id": "def456",
+      "name": "Mèo Mướp",
+      "description": "Mèo mướp lanh lợi và nghịch ngợm",
+      "image": "https://app.gak.vn/storage/uploads/Xv4c0WZA7WqGOkskavde57TdcQXruwtTjSzNi025.jpg"
+    }
+  ]
+}
